@@ -1,7 +1,6 @@
 <?php
 session_start();
 
-// Simulação de login (usuário fixo)
 $login_sucesso = false;
 $mensagem_erro = '';
 
