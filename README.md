@@ -1,2 +1,0 @@
-Sistema de Cadastro de Usuários
-Este projeto é um sistema simples feito em PHP que permite fazer login e cadastrar novos usuários. Os dados são armazenados temporariamente em um array, sem a necessidade de banco de dados. Para rodar o sistema, basta colocar os arquivos em um servidor local como XAMPP ou WAMP, e acessar pelo navegador usando o endereço [http://localhost/seu-projeto](http://localhost/Trabalho%20proz/login.php). O login padrão do sistema é samuelproz@gmail.com com a senha 123456.
